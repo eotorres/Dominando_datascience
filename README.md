@@ -8,7 +8,7 @@ Transformação feita de numeros inteiros para valores decimais (salários, perc
 
  * Criação de colunas em linguagem M
  
-Data
+Data.
 Sexo
 
 
