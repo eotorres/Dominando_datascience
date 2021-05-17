@@ -1,11 +1,20 @@
-# Dominando_datascience
-
 Repositório de dados da instrituição  https://www.flai.com.br/
 
-  * Modelo1 - Analises
-  * Modelo2 - Storytelling com Dados
-  * Modelo3 - Python Linguagem Data Science
-  * Modelo4 - Fundamentos Machine Learning
-  * Modelo5 - Mundo Real
-  * Modelo6 - O melhor que um modelo pode fazer
-  * Modelo7 - A entrega de uma solução DS
+#  Modelo1 - Analises
+
+Foi realizado os ajustes de texto para inteiros nos campos que iremos utiizar para calculos.
+
+Transformação feita de numeros inteiros para valores decimais (salários, percentual)
+
+ * Criação de colunas em linguagem M
+ 
+Data
+Sexo
+
+
+
+
+
+  
+  
+ 
