@@ -6,6 +6,9 @@ Foi realizado os ajustes de texto para inteiros nos campos que iremos utiizar pa
 
 Transformação feita de numeros inteiros para valores decimais (salários, percentual)
 
+Incluido imagem de fundo.
+
+
 # Criação de colunas em linguagem M
  
 * Data.
