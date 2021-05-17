@@ -1,5 +1,6 @@
 # Dominando_datascience
-
+  *  Os modulos serão criados como branch.
+  
 Repositório de dados da instrituição  https://www.flai.com.br/
 
   * Modelo1 - Analises
