@@ -1,6 +1,6 @@
 # Dominando_datascience
 
-Repositório https://www.flai.com.br/
+Repositório de dados da instrituição  https://www.flai.com.br/
 
   * Modelo1 - Analises
   * Modelo2 - Storytelling com Dados
