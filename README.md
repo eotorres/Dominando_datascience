@@ -3,11 +3,9 @@ Instrituição  https://www.flai.com.br/
 #  Modelo2 - Storytelling com Dados
 
 Foi realizado os ajustes de texto para inteiros nos campos que iremos utiizar para calculos.
-
 Transformação feita de numeros inteiros para valores decimais.
-
+Agrupamento de idades.
 Incluido imagem de fundo.
-
 Criação de medidas.
 
 # Gráficos
