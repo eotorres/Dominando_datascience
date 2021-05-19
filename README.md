@@ -1,12 +1,25 @@
-# Dominando_datascience
-  *  Os modulos serão criados como branch.
-  
-# Repositório de dados da instrituição  https://www.flai.com.br/
+Instrituição  https://www.flai.com.br/
 
-  * Modelo1 - Analises
-  * Modelo2 - Storytelling com Dados
-  * Modelo3 - Python Linguagem Data Science
-  * Modelo4 - Fundamentos Machine Learning
-  * Modelo5 - Mundo Real
-  * Modelo6 - O melhor que um modelo pode fazer
-  * Modelo7 - A entrega de uma solução DS
+#  Modelo2 - Storytelling com Dados
+
+Foi realizado os ajustes de texto para inteiros nos campos que iremos utiizar para calculos.
+
+Transformação feita de numeros inteiros para valores decimais.
+
+Incluido imagem de fundo.
+
+Criação de medidas.
+
+# Gráficos
+
+ * Pizza
+ * Barra
+ * Tabela (cascata)
+ * Dispersão
+ * Colunas Empilhadas
+ * Barras Empilhadas
+
+
+# Observação
+
+ * Quando for utilizar o .PBIX, será necessário ir em transformar dados e mudar a fonte de origem do caminho do CSV para aonde for exportado o arquivo BankChurners
