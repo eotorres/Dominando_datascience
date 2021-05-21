@@ -15,12 +15,12 @@
 * Condicional IF-ELSE
 * Definição de Funções
 * Importação de Bibliotecas
-*A Biblioteca Numpy
+* A Biblioteca Numpy
 * Listas
 * Métodos de Listas Iteradores FOR e WHILE
-*Funções Importantes
-*Iteradores FOR e WHILE
-*Projeto: Álbum de Figurinhas
+* Funções Importantes
+* Iteradores FOR e WHILE
+* Projeto: Álbum de Figurinhas
 * Exercícios
 * Links Úteis
 * Anexo: Zen of Python
