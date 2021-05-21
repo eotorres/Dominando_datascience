@@ -5,8 +5,14 @@
   *  Criação da coluna sexo
   *  Tratativas feitas em M
  
- 
-# Case 1 
+
+# Case1 - Relatorio
+
+  * Case teste de uma empresa 
+  * PPT informando o problema 
+  * Relatorio.pbix solução do candidato
+
+# Case 1 - Realizado tratativas no curso
 
   * Trativa na base de dados vendas_b2b
   * Criação de tabelas utilizando medidas distinct para categoria e segmentos
