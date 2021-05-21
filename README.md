@@ -1,5 +1,7 @@
 # Modelo2 - Storytelling com Dados
 
+# Storytelling com Dados: Perfil de Clientes de Cartão de Crédito
+
   *  Apresentação de graficos no Churn.pbix
   *  Tratativa na base de dados BankChurners, transformando dados textos para inteiros e geração de colunas de datas
   *  Criação da coluna sexo
@@ -10,6 +12,7 @@
 
 - Case de uma entrevista de emprego
 
+# Projeto Final de Visualização de Dados: Análise de Lucro de uma Empresa
 
 # Candidato (Relatorio - caso1)
 
