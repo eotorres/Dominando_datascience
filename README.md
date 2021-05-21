@@ -6,6 +6,18 @@
   *  Tratativas feitas em M
  
 
+# Descrição da Aula :
+
+- Case de uma entrevista de emprego
+- Coluna Calcula
+- Construção Tabela Calendário
+- Tabela Fato x Tabela Dimensão
+- Relacionamento entre Tabelas
+- DAX
+- SUM 
+- Construção de Botões e Indicadores
+- Publicar o relatório online
+
 # Case1 - Candidato (Relatorio - caso1)
 
   * Case teste de uma empresa 
