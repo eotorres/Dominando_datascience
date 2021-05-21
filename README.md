@@ -6,7 +6,7 @@
   *  Tratativas feitas em M
  
 
-# Descrição da Aula :
+# Descrição da Aula (CASE1):
 
 - Case de uma entrevista de emprego
 - Coluna Calcula
@@ -18,13 +18,13 @@
 - Construção de Botões e Indicadores
 - Publicar o relatório online
 
-# Case1 - Candidato (Relatorio - caso1)
+# Candidato (Relatorio - caso1)
 
   * Case teste de uma empresa 
   * PPT informando o problema 
   * Relatorio.pbix solução do candidato
 
-# Case 1 - Realizado tratativas no curso (Resolução  - Case1)
+# Realizado tratativas no curso (Resolução  - Case1)
 
   * Trativa na base de dados vendas_b2b
   * Criação de tabelas utilizando medidas distinct para categoria e segmentos
