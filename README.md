@@ -12,7 +12,7 @@
   * PPT informando o problema 
   * Relatorio.pbix solução do candidato
 
-# Case 1 - Realizado tratativas no curso ( Resolução  - Case1 )
+# Case 1 - Realizado tratativas no curso (Resolução  - Case1)
 
   * Trativa na base de dados vendas_b2b
   * Criação de tabelas utilizando medidas distinct para categoria e segmentos
