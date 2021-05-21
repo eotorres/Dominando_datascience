@@ -1,4 +1,4 @@
-# Modelo2 - Storytelling com Dados
+# Modulo2 - Storytelling com Dados
 
 # Storytelling com Dados: Perfil de Clientes de Cartão de Crédito
 
