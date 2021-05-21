@@ -10,12 +10,9 @@
 
 # Descrição da Aula (CASE1):
 
-- Case de uma entrevista de emprego
-
 # Projeto Final de Visualização de Dados: Análise de Lucro de uma Empresa
 
-# Candidato (Relatorio - caso1)
-
+  * Candidato (Relatorio - caso1)
   * Case teste de uma empresa 
   * PPT informando o problema 
   * Relatorio.pbix solução do candidato
