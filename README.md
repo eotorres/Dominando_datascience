@@ -3,10 +3,10 @@
   
 # Repositório de dados da instituição  https://www.flai.com.br/
 
-  * Modelo1 - Analises
-  * Modelo2 - Storytelling com Dados
-  * Modelo3 - Python Linguagem Data Science
-  * Modelo4 - Fundamentos Machine Learning
-  * Modelo5 - Mundo Real
-  * Modelo6 - O melhor que um modelo pode fazer
-  * Modelo7 - A entrega de uma solução DS
+  * Modulo1 - Analises
+  * Modulo2 - Storytelling com Dados
+  * Modulo3 - Python Linguagem Data Science
+  * Modulo4 - Fundamentos Machine Learning
+  * Modulo5 - Mundo Real
+  * Modulo6 - O melhor que um modelo pode fazer
+  * Modulo7 - A entrega de uma solução DS
