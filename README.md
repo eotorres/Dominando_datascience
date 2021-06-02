@@ -18,6 +18,7 @@
 
 ---
 
-# Exercicio1 - ( Resposta dentro do .ipynb )
+# Exercicio1 
   * Faça repetições da técnica Holdout, variando a distribuição de quem vai para amostra de teste e treinamento. Guarde os resultados do EQM para cada repetição e, no final, calcule sua média para obter uma valor mais estável para o EQM.
 
+ * Respostas dentro do arquivo
