@@ -14,6 +14,7 @@
 # Holdout - Separando em dados teste e treinamento 
 
 * Realizando treinamento com regressão linear (LinearRegression)
+* test_size = 0.25
 
 ---
 
