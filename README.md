@@ -3,6 +3,8 @@
 * Dataset utilizado Medical Cost Data ( insurance )
 * EDA
 
+--
+# LEFLAI - Laboratório de Ensino FLAI
 ---
 
 # Pré-processamento interessantes realizados
