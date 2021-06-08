@@ -10,6 +10,7 @@
 - Algoritmo Árvore de Decisão
 - Biblioteca SweetViz
 - Biblioteca Sckit-learn
+- K-FOLD
 
 ---
 # Exercicio1 - Módulo_4_Aula_1.ipynb
@@ -18,7 +19,7 @@
 
 ---
 # Exercicio1 - Aula_8_DDS4_KNN_e_Arvores_de_Decisao.ipynb
-* Encontre valores ótimos para o K do KNN e a profundidade da Árvores.
+*  Encontre valores ótimos para o K do KNN e a profundidade da Árvores.
 *  Respostas dentro do arquivo ( Aula_8_Exercicio1.ipynb )
 *  Respostas dentro do arquivo ( Aula_8_Exercicio1_2.ipynb ) 
 
