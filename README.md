@@ -1,20 +1,15 @@
 # Modulo4 - Fundamentos Machine Learning
-
 * Dataset utilizado Medical Cost Data ( insurance )
-* EDA
-
 ---
 # LEFLAI - Laboratório de Ensino FLAI
 ---
 
 # Pré-processamento interessantes realizados
-
 * Transformar a variável smoker em 0 (não) ou 1 (sim)
 * Colocar a variável resposta na escala para cada mil dolares
 * Transformação de escala /1000 dolares
 
 # Holdout - Separando em dados teste e treinamento 
-
 * Realizando treinamento com regressão linear (LinearRegression)
 * test_size = 0.25
 
