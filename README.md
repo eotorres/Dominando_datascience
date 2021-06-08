@@ -36,3 +36,7 @@
 * Encontre valores ótimos para o K do KNN e a profundidade da Árvores.
 *  Respostas dentro do arquivo ( Aula_8_Exercicio1.ipynb )
 *  Respostas dentro do arquivo ( Aula_8_Exercicio1_2.ipynb ) 
+
+
+---
+# Aula 9 - DDS4 - Modelos de Classificação, Regressao Logistica
