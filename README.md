@@ -11,6 +11,12 @@
 - Biblioteca SweetViz
 - Biblioteca Sckit-learn
 - K-FOLD
+- Machine Learning
+- Regressão versus Classificação
+- Regressão Logística
+- Acurácia
+- Orecusuib
+- Recall
 
 ---
 # Exercicio1 - Módulo_4_Aula_1.ipynb
