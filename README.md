@@ -36,3 +36,4 @@
 # Aula10_DDS4_Combinação_de_Modelos.ipynb
 ---
 # Aula_11_DDS4_Pre_processamendo_de_Dados.ipynb
+* Dataset utilizado ChurnModelling
