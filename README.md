@@ -35,5 +35,8 @@
 ---
 # Aula10_DDS4_Combinação_de_Modelos.ipynb
 ---
-# Aula_11_DDS4_Pre_processamendo_de_Dados.ipynb
+# Aula_11_DDS4_Pre_processamendo_de_Dados.ipynb 
 * Dataset utilizado Churn_Modelling
+* Exercícios Propostos : Verifique o desempenho de algumas combinações de modelos. Varie entre as combinações 'hard' e 'soft'!
+* Resolução Aula_11_2_Exercicio
+
