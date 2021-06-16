@@ -7,6 +7,4 @@
   * Modulo2 - Storytelling com Dados
   * Modulo3 - Python Linguagem Data Science
   * Modulo4 - Fundamentos Machine Learning
-  * Modulo5 - Mundo Real
-  * Modulo6 - O melhor que um modelo pode fazer
-  * Modulo7 - A entrega de uma solução DS
+  * Modulo5 - A entrega de uma solução DS
