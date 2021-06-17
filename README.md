@@ -1,7 +1,6 @@
 # Modulo4 - Fundamentos Machine Learning
 * Dataset utilizado Medical Cost Data ( insurance )
 ---
-# LEFLAI - Laboratório de Ensino FLAI
 ---
 # Conceitos visto na Aula:
 - Revisão sobre Machine Learning
