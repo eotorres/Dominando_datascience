@@ -38,4 +38,6 @@
 * Dataset utilizado Churn_Modelling
 * Exercícios Propostos : Verifique o desempenho de algumas combinações de modelos. Varie entre as combinações 'hard' e 'soft'!
 * Resolução Aula_11_2_Exercicios
+---
+# Aula_12_DDS4_Pre_processamendo_de_Dados_e_Hipertunagem_de_Parâmetros.ipynb
 
