@@ -49,4 +49,5 @@
 ---
 # Aula_14_medical
  *  Deploy utilizando streamlit 
+ *  Arquivos  : meu-modelo-para-os-custos / meu-modelo-para-smoker
 
