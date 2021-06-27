@@ -46,4 +46,7 @@
 
 ---
 # Aula_13_DDS4_Machine_Learning_com_PyCaret
+---
+# Aula_14_medical
+ *  Deploy utilizando streamlit 
 
