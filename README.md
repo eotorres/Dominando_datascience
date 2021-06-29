@@ -18,7 +18,8 @@ resposta, a qual deve ser predita.
 
 -------
 
- Regras:
+Regras:
+
 ● Competição exclusiva para alunos da Comunidade FLAI.
 ● Os livros devem ser escolhidos de forma que não ultrapasse o valor do voucher.
 ● As submissões devem estar padronizadas segundo o guia de submissões
