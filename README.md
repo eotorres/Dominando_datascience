@@ -1,7 +1,7 @@
-# Dominando_datascience
-
-IV COMPETIÇÃO DE MACHINE
+# IV COMPETIÇÃO DE MACHINE
 LEARNING DA COMUNIDADE FLAI!
+
+
 Muito bem, meus caros! Chegou a grande hora de colocar em prática os
 conhecimentos adquiridos até então!
 
