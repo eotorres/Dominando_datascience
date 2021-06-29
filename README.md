@@ -15,3 +15,11 @@ resposta “Cliente”.
 resposta, a qual deve ser predita.
 
 ● Métrica alvo: o modelo com o melhor F1-SCORE leva a competição!
+
+-------
+
+ Regras:
+● Competição exclusiva para alunos da Comunidade FLAI.
+● Os livros devem ser escolhidos de forma que não ultrapasse o valor do voucher.
+● As submissões devem estar padronizadas segundo o guia de submissões
+● As submissões devem ser feitas através do seguinte formulário
