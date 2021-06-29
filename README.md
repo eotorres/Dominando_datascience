@@ -8,3 +8,4 @@
   * Modulo3 - Python Linguagem Data Science
   * Modulo4 - Fundamentos Machine Learning
   * Modulo5 - LEFLAI:Laboratório de Ensino FLAI
+  * Modulo6 - Competição Machine Learning FLAI
