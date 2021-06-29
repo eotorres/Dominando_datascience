@@ -1,10 +1,17 @@
 # Dominando_datascience
-  *  Os modulos serão criados como branch.
-  
-# Repositório de dados da instituição  https://www.flai.com.br/
 
-  * Modulo1 - Analises
-  * Modulo2 - Storytelling com Dados
-  * Modulo3 - Python Linguagem Data Science
-  * Modulo4 - Fundamentos Machine Learning
-  * Modulo5 - LEFLAI:Laboratório de Ensino FLAI
+IV COMPETIÇÃO DE MACHINE
+LEARNING DA COMUNIDADE FLAI!
+Muito bem, meus caros! Chegou a grande hora de colocar em prática os
+conhecimentos adquiridos até então!
+
+-----
+Detalhes técnicos:
+
+● Conjunto de dados de treinamento: 2500 linhas x 18 colunas, contém a variável
+resposta “Cliente”.
+
+● Conjunto de dados de teste: 2500 linhas x 17 colunas, não contém a variável
+resposta, a qual deve ser predita.
+
+● Métrica alvo: o modelo com o melhor F1-SCORE leva a competição!
